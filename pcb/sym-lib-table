@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name msykbd)(type Legacy)(uri /home/tkhshmsy/github.com/work/kicad5-work/msykbd/msykbd.lib)(options "")(descr ""))
+)
